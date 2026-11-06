@@ -1,6 +1,5 @@
 *.pt
 *.pth
-*.npy
 *.zip
 *.archive
 *.png
